@@ -1,0 +1,3 @@
+﻿  BinomialHeap.cpp
+D:\ПАПКА\АиСД\BinomialHeap\BinomialHeap\BinomialHeap.cpp(18,49): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  BinomialHeap.vcxproj -> D:\ПАПКА\АиСД\BinomialHeap\x64\Debug\BinomialHeap.exe
