@@ -1,8 +1,0 @@
-﻿  Roads_37_Individual.cpp
-D:\ПАПКА\АиСД\Roads_37_Individual\Roads_37_Individual\Roads_37_Individual.cpp(79,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Создание кода
-  1 of 146 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  Roads_37_Individual.vcxproj -> D:\ПАПКА\АиСД\Roads_37_Individual\x64\Release\Roads_37_Individual.exe
