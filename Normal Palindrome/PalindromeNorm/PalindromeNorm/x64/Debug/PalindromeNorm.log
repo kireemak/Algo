@@ -1,0 +1,3 @@
+﻿  PalindromeNorm.cpp
+D:\ПАПКА\АиСД\Normal Palindrome\PalindromeNorm\PalindromeNorm\PalindromeNorm.cpp(61,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  PalindromeNorm.vcxproj -> D:\ПАПКА\АиСД\Normal Palindrome\PalindromeNorm\x64\Debug\PalindromeNorm.exe
